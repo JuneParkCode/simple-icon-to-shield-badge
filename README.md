@@ -1,4 +1,5 @@
 # <img src="public/icons/icon_48.png" width="45" align="left"> Simple Icon To-badge
+![image](https://img.shields.io/badge/-Google%20Chrome-4285F4?&logo=Google%20Chrome&style=flat-square&logoColor=ffffff) ![image](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&style=flat-square&logoColor=000000)
 
 ## Chrome Extension
 It is still under review and not listed in the chrome extension store.
@@ -7,8 +8,6 @@ if you want to use this extension,
 2. enable developer mode on chrome://extensions
 3. click `Load unpacked`
 4. select the directory
-
-![image](https://github.com/user-attachments/assets/f38749b8-1ed6-4009-95ef-9cbcb22ea109)
 
 
 ## Feature
